@@ -1,0 +1,32 @@
+.container{
+    background-color: #ccc;
+    box-shadow: 0 0 10px black;
+    width: 500px;
+    height: auto;
+    margin: 10px;
+    padding: 10px;
+}
+.wrapper{
+    display: flex;
+    flex-direction: row;
+}
+.digital-numbers{
+    padding: 10px;
+    margin: 5px;
+    border-radius: 50px;
+    font-size: 18px;
+    text-align: center;
+    width: 50px;
+    height:auto;
+    color:white;
+    background-color:red;
+}
+.digital-items{
+    width: 400px;
+    font-size: 20px;
+    text-align: center;
+    height: auto;
+    padding: 10px;
+    margin: 10px;
+    background-color:white;
+}
